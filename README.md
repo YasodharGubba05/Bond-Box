@@ -208,12 +208,4 @@ erDiagram
 
 ---
 
-## 📄 License
 
-This project is private and not licensed for redistribution.
-
----
-
-<p align="center">
-  Built with 💙 by <strong>Team Route 301</strong>
-</p>
