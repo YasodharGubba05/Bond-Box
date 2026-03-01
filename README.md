@@ -13,7 +13,7 @@
 BondBox transforms solo studying into a shared experience — create real-time study rooms with video & voice, challenge friends to quiz battles, track your progress, and grow together.
 
 🌐 **Live Demo:** [bond-box.vercel.app](https://bond-box.vercel.app/)  
-📦 **Repository:** [github.com/suryatejabatchu08/BondBox](https://github.com/suryatejabatchu08/BondBox)
+
 
 ---
 
